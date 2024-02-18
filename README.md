@@ -19,9 +19,9 @@
 git clone https://github.com/s-i-fedorov/hw_19_npm.git
 
 - створення файлу через термінал ubuntu -->  
-serhii@serhii-PC:~/WebstormProjects/npm/hw_19_npm$ mkdir js  
-serhii@serhii-PC:~/WebstormProjects/npm/hw_19_npm$ cd js/  
-serhii@serhii-PC:~/WebstormProjects/npm/hw_19_npm/js$ touch index.js
+serhii@serhii-PC: /WebstormProjects/npm/hw_19_npm$ mkdir js  
+serhii@serhii-PC: /WebstormProjects/npm/hw_19_npm$ cd js/  
+serhii@serhii-PC: /WebstormProjects/npm/hw_19_npm/js$ touch index.js
 
 - ініціалізація гіт у репозиторії -->  
 serhii@serhii-PC:~/WebstormProjects/npm$ git init
